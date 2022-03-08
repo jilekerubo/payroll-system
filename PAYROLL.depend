@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646746626 source:c:\users\cyprian\onedrive\documents\c\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
